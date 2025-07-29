@@ -73,6 +73,10 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
+    "wogg": {
+      "api": "https://xn--sees-rp5imh.v.nxog.top/api2.php?id=1",
+      "name": "玩偶"
+    },
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
