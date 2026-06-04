@@ -1,14 +1,26 @@
-{
-  "cache_time": 7200,
-  "api_site": {
-    "dyttzy": {
-      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
-      "name": "电影天堂资源",
-      "detail": "http://caiji.dyttzyapi.com"
-    },
-    "wogg": {
-      "api": "https://woog.nxog.fun/",
-      "name": "玩偶"
-    }
-  }
+﻿{
+    "cache_time":  7200,
+    "api_site":  {
+                     "wogg":  {
+                                  "name":  "玩偶哥哥",
+                                  "api":  "https://cj.lziapi.com/api.php/provide/vod/"
+                              },
+                     "bfzy":  {
+                                  "name":  "暴风资源",
+                                  "api":  "https://bfzyapi.com/api.php/provide/vod/"
+                              },
+                     "dyttzy":  {
+                                    "detail":  "http://caiji.dyttzyapi.com",
+                                    "api":  "http://caiji.dyttzyapi.com/api.php/provide/vod",
+                                    "name":  "电影天堂资源"
+                                },
+                     "lmzy":  {
+                                  "name":  "闪电资源",
+                                  "api":  "https://jszyapi.com/api.php/provide/vod/"
+                              },
+                     "hongniu":  {
+                                     "name":  "红牛资源",
+                                     "api":  "https://hongniuzy2.com/api.php/provide/vod/"
+                                 }
+                 }
 }
